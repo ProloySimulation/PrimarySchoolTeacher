@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PrimarySchoolTeachers_app</string>
+    <string name="school_name">Model Primary School</string>
+    <string name="registration">EMS : 500123</string>
+    <string name="headmaster_name">Headmaster Name : Anisul Islam</string>
+    <string name="class1">Headmaster Name : Anisul Islam</string>
+    <string name="total_boys_number">Total Boy students : 70</string>
+    <string name="total_girls_number">Total Girl students : 80</string>
+    <string name="class_1">Class One</string>
+    <string name="class_2">Class Two</string>
+    <string name="class_3">class Three</string>
+    <string name="class_4">class Four</string>
+    <string name="class_5">class Five</string>
+    <string name="present_student">present boy students :</string>
+    <string name="present_student_female">present Female students:</string>
+
+    <string name="user_id">User ID/Email address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="search"> </string>
+    <string name="total_boys"> Total Boys Student</string>
+    <string name="total_b"> 5000</string>
+    <string name="total_girls"> Total Girls Student</string>
+    <string name="total_g"> 5000</string>
+    <string name="userid"> 5000</string>
+    <string name="phnNo"> 5000</string>
+    <string name="email"> 5000</string>
+
+</resources>
